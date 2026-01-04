@@ -3,7 +3,6 @@ $day-size: 100px;
 $gap: 1px;
 $columns: 7;
 $calendar-padding: 10px;
-$day-total-size: $day-size + ($border-width * 2);
 /* stylelint-disable */
 $calendar-width: ($day-size * $columns) + ($gap * ($columns - 1)) +
   (2 * $border-width * $columns);
